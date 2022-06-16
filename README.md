@@ -1,2 +1,2 @@
-# Todo-app-django
+# Todo App Django
 Simple API of Todo app using Django
